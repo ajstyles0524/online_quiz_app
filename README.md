@@ -1,6 +1,6 @@
 # Let's Quiz
 
-### [letsquiz.pythonanywhere.com/](https://letsquiz.pythonanywhere.com/) [![Website letsquiz.pythonanywhere.com](https://img.shields.io/website-up-down-green-red/http/letsquiz.pythonanywhere.com.svg)](http://letsquiz.pythonanywhere.com/)
+### [onlinequizweb.herokuapp.com](https://onlinequizweb.herokuapp.com/) [![Website onlinequizweb.herokuapp.com](https://img.shields.io/website-up-down-green-red/http/onlinequizweb.herokuapp.com.svg)](https://onlinequizweb.herokuapp.com/)
 
 This is an online quiz organizing website project, developed using Python's web framework Django.<br>
 For front-end designing I have used Twitter's front-end library Bootstrap4.
@@ -56,7 +56,7 @@ cd quiz_app
 ### 3. Create the virtualenv
 
 ```bash
-## run following command from `lets_quiz` directory
+## run following command from `quiz_app` directory
 pipenv shell
 ```
 
@@ -88,3 +88,10 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
+
+
+## Support
+
+- If you are having issues, please let me know.<gr>
+  I have a mailing list located at: ajstyles0524@gmail.com
+
